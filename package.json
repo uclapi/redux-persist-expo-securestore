@@ -1,6 +1,6 @@
 {
   "name": "redux-persist-expo-securestore",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "redux-persist storage for Expo's SecureStore",
   "main": "src/index.js",
   "types": "src/index.d.ts",
@@ -15,5 +15,8 @@
   },
   "devDependencies": {
     "prettier": "^1.18.2"
+  },
+  "dependencies": {
+    "expo-secure-store": "^8.1.0"
   }
 }
