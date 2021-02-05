@@ -11,12 +11,9 @@
     "format": "prettier --write 'src/**/*.{js,ts}' package.json README.md"
   },
   "peerDependencies": {
-    "expo-secure-store": "^9.0.1"
+    "expo-secure-store": "^10.0.0"
   },
   "devDependencies": {
     "prettier": "^1.18.2"
-  },
-  "dependencies": {
-    "expo-secure-store": "^9.0.1"
   }
 }
