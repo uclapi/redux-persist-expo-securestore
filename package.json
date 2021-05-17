@@ -1,6 +1,6 @@
 {
   "name": "redux-persist-expo-securestore",
-  "version": "4.0.0",
+  "version": "6.0.0",
   "description": "redux-persist storage for Expo's SecureStore",
   "main": "src/index.js",
   "types": "src/index.d.ts",
@@ -11,7 +11,7 @@
     "format": "prettier --write 'src/**/*.{js,ts}' package.json README.md"
   },
   "peerDependencies": {
-    "expo-secure-store": "^10.0.0"
+    "expo-secure-store": "~10.1.0"
   },
   "devDependencies": {
     "prettier": "^1.18.2"
